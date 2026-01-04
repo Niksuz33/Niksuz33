@@ -1,16 +1,29 @@
-## Hi there 👋
+# Niks (Niksuz33)
 
-<!--
-**Niksuz33/Niksuz33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on automation and Web3 tooling. I build small, bounty-ready utilities: scripts, parsers, bots, and data pipelines.
 
-Here are some ideas to get you started:
+## What I do
+- Python automation: scripts, parsers, data extraction
+- Web scraping (Selenium/Playwright when needed)
+- API integrations (REST/Webhooks)
+- Bots: Telegram/Discord notifications
+- Web3 (EVM): RPC integrations, logs/events fetching, onchain monitoring
+- Storage & export: SQLite/Postgres → CSV/JSON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Typical deliverables
+- Scrape a website (including login) and export to Excel/CSV
+- Build a monitoring bot with alerts (Telegram/Discord)
+- Integrate 2 services via API and automate reports
+- Index smart contract events and generate datasets/reports
+
+## Portfolio
+- ChainWatch — EVM monitor/indexer (CLI + SQLite + RPC) — *link soon*
+- Python Bounty Template — reusable project starter (CI + tests) — *link soon*
+
+## Work style
+- Clear acceptance criteria + milestones
+- Reproducible setup (`pip install -e .`, tests)
+- Short iterations, clean commits
+
+## Languages
+RU / EN
